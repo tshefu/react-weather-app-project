@@ -6,6 +6,12 @@
   border-radius: 4px;
 }
 
+.Weather canvas {
+  margin-top: 5px;
+  margin-right: 10px;
+  display: inline-block;
+}
+
 .Weather form {
   margin-bottom: 20px;
 }
