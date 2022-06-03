@@ -6,4 +6,15 @@
 .App footer {
   font-size: 11px;
   margin: 10px 0;
+  color: #407088;
+}
+
+.App footer link {
+  text-decoration: none;
+}
+
+.App .footerLink {
+  text-decoration: none;
+  color: #407088;
+  font-weight: bold;
 }

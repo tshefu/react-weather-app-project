@@ -1,0 +1,9 @@
+.WeatherTemperature a {
+  text-decoration: none;
+  color: #407088;
+  font-weight: bold;
+}
+
+.WeatherTemperature .temperature {
+  color: #132743;
+}

@@ -22,6 +22,7 @@
   height: 28px;
   line-height: 29px;
   margin: 20px 0 0 0;
+  color: #407088;
 }
 
 .Weather ul {
@@ -38,7 +39,7 @@
 
 .Weather .temperature {
   font-weight: bold;
-  color: rgb(33, 33, 33);
+  color: #407088;
   font-size: 64px;
   line-height: 64px;
   font-weight: 400;
@@ -50,4 +51,9 @@
   font-weight: 400;
   position: relative;
   top: -34px;
+}
+
+.Weather .btn {
+  background-color: #407088;
+  border-color: #407088;
 }

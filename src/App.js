@@ -8,12 +8,23 @@ export default function App() {
         <Weather defaultCity="New York" />
         <footer>
           <p>
-            This project was coded by Viktoria Schneider and is{" "}
+            This project was coded by
+            <a
+              href="https://thirsty-goldstine-72f798.netlify.app/"
+              target="_blank"
+              className="footerLink"
+            >
+              {" "}
+              Viktoria Schneider{" "}
+            </a>{" "}
+            and is open-sourced on
             <a
               href="https://github.com/tshefu/react-weather-app-project"
               target="_blank"
+              className="footerLink"
             >
-              open-sourced on GitHub
+              {" "}
+              GitHub
             </a>
           </p>
         </footer>
