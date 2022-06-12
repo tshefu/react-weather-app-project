@@ -13,6 +13,7 @@ export default function App() {
               href="https://thirsty-goldstine-72f798.netlify.app/"
               target="_blank"
               className="footerLink"
+              rel="noreferrer"
             >
               {" "}
               Viktoria Schneider{" "}
@@ -22,6 +23,7 @@ export default function App() {
               href="https://github.com/tshefu/react-weather-app-project"
               target="_blank"
               className="footerLink"
+              rel="noreferrer"
             >
               {" "}
               GitHub
